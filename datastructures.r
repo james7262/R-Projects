@@ -48,7 +48,7 @@ c(4,3,2))   # Specify dimensions - rows, columns, tables.
 a1
 
 # The data frame is a 2 dimensional collection that
-# can have vectors of different data types, but the 
+# can have vectors of different data types, but the
 # vectors must all be of the same length.
 # Create 3 vectors all of the same length.
 vnumeric <- c(1,2,3)
